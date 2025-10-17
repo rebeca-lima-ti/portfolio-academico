@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-academico",
+  "version": "1.0.0",
+  "description": "Atividade Avaliativa Individual 03 da matéria de Desenvolvimento Web II.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeca-lima-ti/portfolio-academico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeca-lima-ti/portfolio-academico/issues"
+  },
+  "homepage": "https://github.com/rebeca-lima-ti/portfolio-academico#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
