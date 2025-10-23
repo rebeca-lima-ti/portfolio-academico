@@ -8,6 +8,7 @@ export let Tecnologias = Object.freeze({
   mysql: "MySQL",
   node: "Node.js",
   pandas: "Pandas",
+  php: "PHP",
   python: "Python",
   react: "React",
   typescript: "TypeScript",
@@ -16,7 +17,7 @@ export let Tecnologias = Object.freeze({
 export let estudante = {
   nome: "Rebeca Lima Nunes",
   curso: "Desenvolvimento de Sistemas Multiplataforma",
-  instituicao: "Fatec SJC Jessen Vidal",
+  instituicao: "Fatec Profº Jessen Vidal - São José dos Campos, SP",
   anoIngresso: 2025,
 };
 
@@ -51,7 +52,7 @@ export let projetos = [
   {
     titulo: "Site - Pizzaria Casabella",
     descricao: "Um site desenvolvido no curso de Bootstrap do Senac.",
-    link: "https://github.com/Team-Chronos/API-DSM-2SEMESTRE-2025",
+    link: "https://github.com/rebeca-lima-ti/SitePizzaria-Senac",
     techs: [Tecnologias.html, Tecnologias.css, Tecnologias.javascript]
   },
 ];
